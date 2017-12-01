@@ -14,5 +14,6 @@ body{
     min-height: 100%;
     background: url(http://gw.alicdn.com/mt/TB1.sknLXXXXXbEXpXXXXXXXXXX-750-1333.png) no-repeat;
     /* 等比例缩放 */
-    background-size: 10rem 100%;
+    /* background-size: contain; */
+    background-size: cover;
 }
